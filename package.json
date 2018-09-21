@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "async": "~2.6.0",
-    "java": "^0.9.0",
+    "java": "git://github.com/allengleyzer/node-java",
     "lodash": "~4.17",
     "uuid": "^3.1.0",
     "winston": "^2.4.0"
